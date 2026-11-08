@@ -12,6 +12,7 @@ Originais em `png/` (2560 px de largura ou mais). Versões web em `webp/` (quali
 | Galeria 3:4 (2) | gallery-classes | 900×1200 | The base classes: warrior, mage and hunter | As classes base: guerreira, mago e caçadora |
 | Galeria 3:4 (3) | gallery-swamp-night | 900×1200 | The Mud Golem and its spectres in the swamp at night | O Golem do Lodo e seus espectros no pântano à noite |
 | Galeria 3:4 (4) | gallery-city | 900×1200 | Timber houses in Havenbrook's lower town | Casas de enxaimel na cidade baixa de Havenbrook |
+| Capa de notícia 16:10 | mina-havenbrook | 1600×1000 | The mouth of the Havenbrook Mine, its portal glowing in the morning | A boca da Mina de Havenbrook, com o portal aceso pela manhã |
 
 Observações:
 - A floresta foi fotografada no bosque de Havenbrook, aos pés do castelo. O mapa da floresta (03) é um bosque aberto entre paredões e rendeu fotos fracas.
